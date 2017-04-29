@@ -24,7 +24,7 @@
     "react-scripts": "0.9.5"
   },
   "scripts": {
-    "start": "react-scripts start && node server",
+    "start-server": "node server",
     "start-client": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
